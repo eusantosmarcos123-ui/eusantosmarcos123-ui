@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="foto-perfil.jpg" alt="Foto de Marcos Vinicius" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 3px solid #2563eb;" />
   <h1>Olá, eu sou o Marcos Vinícius 👋</h1>
   <p><strong>Desenvolvedor Full Stack & Mobile | Estudante de Análise e Desenvolvimento de Sistemas (ADS)</strong></p>
   <p>
