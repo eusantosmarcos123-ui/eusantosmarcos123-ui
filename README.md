@@ -34,6 +34,11 @@ Sou apaixonado por construir software robusto, de alta performance e com arquite
 
 ---
 
-<div align="center">
-  <p>💼 <b>Portfólio Oficial:</b> <a href="https://eusantosmarcos123-ui.github.io/portfolio/">eusantosmarcos123-ui.github.io/portfolio</a></p>
-</div>
+### 📬 Contato
+
+- 💼 **Portfólio:** [eusantosmarcos123-ui.github.io/portfolio](https://eusantosmarcos123-ui.github.io/portfolio/)
+- ✉️ **E-mail:** [eusantosmarcos123@gmail.com](mailto:eusantosmarcos123@gmail.com)
+- 💬 **WhatsApp:** [+55 (75) 99891-2286](https://api.whatsapp.com/send?phone=5575998912286)
+- 🔗 **LinkedIn:** [linkedin.com/in/marcos-santos-1336603a6](https://www.linkedin.com/in/marcos-santos-1336603a6/)
+- 🐙 **GitHub:** [@eusantosmarcos123-ui](https://github.com/eusantosmarcos123-ui)
+
