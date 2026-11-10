@@ -1,13 +1,17 @@
-# Olá, eu sou o Marcos Vinícius 👋
-
-🚀 **Desenvolvedor Full Stack & Mobile | Estudante de Análise e Desenvolvimento de Sistemas (ADS)**
-
-Sou apaixonado por construir software robusto, de alta performance e com arquitetura segura de ponta a ponta. Atuo desde o desenvolvimento de aplicativos móveis (Android Nativo, Flutter e React Native) até plataformas corporativas completas (React, TypeScript, Node.js e bancos de dados SQL/NoSQL).
+<div align="center">
+  <img src="foto-perfil.jpg" alt="Foto de Marcos Vinicius" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 3px solid #2563eb;" />
+  <h1>Olá, eu sou o Marcos Vinícius 👋</h1>
+  <p><strong>Desenvolvedor Full Stack & Mobile | Estudante de Análise e Desenvolvimento de Sistemas (ADS)</strong></p>
+  <p>
+    <a href="https://eusantosmarcos123-ui.github.io/portfolio/"><b>🌐 Ver Portfólio Online</b></a> • 
+    <a href="mailto:eusantosmarcos123@gmail.com"><b>✉️ Enviar E-mail</b></a>
+  </p>
+</div>
 
 ---
 
-### 🌐 Conheça meu Portfólio Online
-👉 **[eusantosmarcos123-ui.github.io/portfolio](https://eusantosmarcos123-ui.github.io/portfolio/)**
+### 🚀 Sobre Mim
+Sou apaixonado por construir software robusto, de alta performance e com arquitetura segura de ponta a ponta. Atuo desde o desenvolvimento de aplicativos móveis (Android Nativo, Flutter e React Native) até plataformas corporativas completas (React, TypeScript, Node.js e bancos de dados SQL/NoSQL).
 
 ---
 
@@ -31,8 +35,6 @@ Sou apaixonado por construir software robusto, de alta performance e com arquite
 
 ---
 
-### 📬 Vamos conversar?
-
-- 💼 **Portfólio:** [eusantosmarcos123-ui.github.io/portfolio](https://eusantosmarcos123-ui.github.io/portfolio/)
-- ✉️ **E-mail:** [eusantosmarcos123@gmail.com](mailto:eusantosmarcos123@gmail.com)
-- 🐙 **GitHub:** [@eusantosmarcos123-ui](https://github.com/eusantosmarcos123-ui)
+<div align="center">
+  <p>💼 <b>Portfólio Oficial:</b> <a href="https://eusantosmarcos123-ui.github.io/portfolio/">eusantosmarcos123-ui.github.io/portfolio</a></p>
+</div>
